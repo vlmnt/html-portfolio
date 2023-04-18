@@ -1,2 +1,2 @@
-# html-portfolio-homework
+# html-portfolio
 html hosting test
